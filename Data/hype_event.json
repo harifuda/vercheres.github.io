@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "date": "2022-07-29",
+        "title": "Kevin Hart: Reality Check",
+        "url": "https://www.hahaha.com/en/shows/kevin-hart-reality-check",
+        "color": "#FF6347",
+        "imageURL": "https://statique.festival-riremontreal.ca/sites/default/files/2022-04/JFM_KevinHart22_Concert_JFLweb_1296x443.png"
+    },
+    {
+        "id": "2",
+        "date": "2022-10-26",
+        "title": "The Smashing Pumpkins",
+        "url": "https://evenko.ca/en/events/45893/the-smashing-pumpkins/bell-centre/10-26-2022",
+        "color": "#7A03CC",
+        "imageURL": "https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957"
+    }
+]
