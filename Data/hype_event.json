@@ -13,6 +13,30 @@
         "title": "The Smashing Pumpkins",
         "url": "https://evenko.ca/en/events/45893/the-smashing-pumpkins/bell-centre/10-26-2022",
         "color": "#7A03CC",
-        "imageURL": "https://i.scdn.co/image/ab6761610000e5eb1a7d0845c3b7e2f130264957"
+        "imageURL": "https://static01.nyt.com/images/2018/03/25/arts/25pumpkins1/25pumpkins1-superJumbo.jpg"
+    },
+    {
+        "id": "3",
+        "date": "2022-10-19",
+        "title": "Life at the Château - Splendor and Misery in New France",
+        "url": "https://www.mtl.org/en/what-to-do/festivals-and-events/18-th-century-life-montreal",
+        "color": "#0a8074",
+        "imageURL": "https://www.chateauramezay.qc.ca/media/filer_public_thumbnails/filer_public/a0/b8/a0b862b4-c9f5-43d4-9707-1d9319f1b3d7/chateau_ramezay_donner_temps_benevoles_visites_guidees_mpinault.jpg__1200x800_q85_subsampling-2.jpg"
+    },
+    {
+        "id": "4",
+        "date": "2022-10-19",
+        "title": "The Montréal of Oscar Peterson",
+        "url": "https://www.mtl.org/en/experience/montreal-oscar-peterson",
+        "color": "#4037e6",
+        "imageURL": "https://deadline.com/wp-content/uploads/2021/08/Oscar-Peterson.jpg?w=1024"
+    },
+    {
+        "id": "5",
+        "date": "2022-10-19",
+        "title": "The Montréal of Oscar Peterson",
+        "url": "https://www.mtl.org/en/experience/montreal-oscar-peterson",
+        "color": "#4037e6",
+        "imageURL": "https://deadline.com/wp-content/uploads/2021/08/Oscar-Peterson.jpg?w=1024"
     }
 ]
