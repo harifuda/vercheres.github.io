@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "date": "2022-10-19",
+        "date": "2022-11-23",
         "title": "The Montréal of Oscar Peterson",
         "url": "https://www.mtl.org/en/experience/montreal-oscar-peterson",
         "color": "#4037e6",
@@ -38,5 +38,45 @@
         "url": "https://www.mtl.org/en/what-to-do/festivals-and-events/permanent-collection-inuit-art-canadian-guild-crafts",
         "color": "#f59842",
         "imageURL": "https://cdn.shopify.com/s/files/1/1276/9639/articles/ExpositionPermanente_FirstNations_1400x.jpg?v=1660831180"
+    },
+    {
+        "id": "6",
+        "date": "2022-10-30",
+        "title": "Gad Elmaleh",
+        "url": "https://www.livenation.com/artist/K8vZ917KJX7/gad-elmaleh-events",
+        "color": "#42f590",
+        "imageURL": "https://cdn.actualnewsmagazine.com/english/wp-content/uploads/2022/02/Gad-Elmaleh-on-the-education-of-his-sons-I-was.jpg"
+    },
+    {
+        "id": "7",
+        "date": "2022-10-28",
+        "title": "Gede: Afro-Caribbean Halloween",
+        "url": "https://www.eventbrite.ca/e/gede-afro-caribbean-halloween-tickets-425912093537?aff=ebdssbcitybrowse",
+        "color": "#42f590",
+        "imageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F366641539%2F277075958363%2F1%2Foriginal.20221004-145525?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f21eef2518bd8ba070c251eac1247a0d"
+    },
+    {
+        "id": "8",
+        "date": "2022-10-30",
+        "title": "Gad Elmaleh",
+        "url": "https://www.livenation.com/artist/K8vZ917KJX7/gad-elmaleh-events",
+        "color": "#42f590",
+        "imageURL": "https://cdn.actualnewsmagazine.com/english/wp-content/uploads/2022/02/Gad-Elmaleh-on-the-education-of-his-sons-I-was.jpg"
+    },
+    {
+        "id": "9",
+        "date": "2022-10-30",
+        "title": "Gad Elmaleh",
+        "url": "https://www.livenation.com/artist/K8vZ917KJX7/gad-elmaleh-events",
+        "color": "#42f590",
+        "imageURL": "https://cdn.actualnewsmagazine.com/english/wp-content/uploads/2022/02/Gad-Elmaleh-on-the-education-of-his-sons-I-was.jpg"
+    },
+    {
+        "id": "10",
+        "date": "2022-10-30",
+        "title": "Gad Elmaleh",
+        "url": "https://www.livenation.com/artist/K8vZ917KJX7/gad-elmaleh-events",
+        "color": "#42f590",
+        "imageURL": "https://cdn.actualnewsmagazine.com/english/wp-content/uploads/2022/02/Gad-Elmaleh-on-the-education-of-his-sons-I-was.jpg"
     }
 ]
