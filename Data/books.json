@@ -1,0 +1,26 @@
+[
+    {
+     "author" : "Honoré Beaugrand",
+     "title" : "La chasse-galerie",
+     "isbn" : "187722",
+       "relatedTitles" : [
+           "Anita", "Fantastic Tales"
+       ]
+    },
+    {
+     "author" : "Leo Tolstoy",
+     "title" : "War and Peace",
+     "isbn" : "187736",
+    "relatedTitles" : [
+        "A Confession", "Childhood", "Resurrection", "The 3 Questions"
+       ]
+    },
+    {
+      "author" : "Ernest Hemingway",
+      "title" : "The Sun Also Rises",
+      "isbn" : "245683",
+    "relatedTitles" : [
+        "The Old Man and the Sea", "A Farewell to Arms", "For Whom the Bell Tolls"
+       ]
+    }
+]
