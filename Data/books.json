@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "author": "Honoré Beaugrand",
         "title": "La chasse-galerie",
         "isbn": "187722",
@@ -9,6 +10,7 @@
         ]
     },
     {
+        "id": 2,
         "author": "Leo Tolstoy",
         "title": "War and Peace",
         "isbn": "187736",
@@ -20,6 +22,7 @@
         ]
     },
     {
+        "id": 3,
         "author": "Ernest Hemingway",
         "title": "The Sun Also Rises",
         "isbn": "245683",
