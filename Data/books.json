@@ -4,7 +4,7 @@
         "author": "Honoré Beaugrand",
         "title": "La chasse-galerie",
         "isbn": "187722",
-        "relatedTitles": [
+        "related_titles": [
             "Anita",
             "Fantastic Tales"
         ]
@@ -14,7 +14,7 @@
         "author": "Leo Tolstoy",
         "title": "War and Peace",
         "isbn": "187736",
-        "relatedTitles": [
+        "related_titles": [
             "A Confession",
             "Childhood",
             "Resurrection",
@@ -26,7 +26,7 @@
         "author": "Ernest Hemingway",
         "title": "The Sun Also Rises",
         "isbn": "245683",
-        "relatedTitles": [
+        "related_titles": [
             "The Old Man and the Sea",
             "A Farewell to Arms",
             "For Whom the Bell Tolls"
